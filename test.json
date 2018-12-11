@@ -1,0 +1,211 @@
+{
+    "frames": [
+        {
+            "src": "tsinghuaDaimlerDataset_2014-11-20_074640_000000000_leftImg8bit.png",
+            "lines": [],
+            "rectangles": [
+                {
+                    "topLeft": {
+                        "x": 0,
+                        "y": 425
+                    },
+                    "bottomRight": {
+                        "x": 381,
+                        "y": 547
+                    },
+                    "label": "Dontcare"
+                },
+                {
+                    "topLeft": {
+                        "x": 431,
+                        "y": 422
+                    },
+                    "bottomRight": {
+                        "x": 631,
+                        "y": 517
+                    },
+                    "label": "Dontcare"
+                },
+                {
+                    "topLeft": {
+                        "x": 733,
+                        "y": 406
+                    },
+                    "bottomRight": {
+                        "x": 769,
+                        "y": 491
+                    },
+                    "label": "Pedestrian"
+                },
+                {
+                    "topLeft": {
+                        "x": 900,
+                        "y": 400
+                    },
+                    "bottomRight": {
+                        "x": 918,
+                        "y": 459
+                    },
+                    "label": "Cyclist"
+                },
+                {
+                    "topLeft": {
+                        "x": 1123,
+                        "y": 409
+                    },
+                    "bottomRight": {
+                        "x": 1144,
+                        "y": 452
+                    },
+                    "label": "Pedestrian"
+                },
+                {
+                    "topLeft": {
+                        "x": 1081,
+                        "y": 413
+                    },
+                    "bottomRight": {
+                        "x": 1100,
+                        "y": 445
+                    },
+                    "label": "Cyclist"
+                },
+                {
+                    "topLeft": {
+                        "x": 1054,
+                        "y": 409
+                    },
+                    "bottomRight": {
+                        "x": 1067,
+                        "y": 448
+                    },
+                    "label": "Pedestrian"
+                },
+                {
+                    "topLeft": {
+                        "x": 1040,
+                        "y": 407
+                    },
+                    "bottomRight": {
+                        "x": 1058,
+                        "y": 441
+                    },
+                    "label": "Pedestrian"
+                },
+                {
+                    "topLeft": {
+                        "x": 969,
+                        "y": 409
+                    },
+                    "bottomRight": {
+                        "x": 1010,
+                        "y": 455
+                    },
+                    "label": "Motorcyclist"
+                },
+                {
+                    "topLeft": {
+                        "x": 1146,
+                        "y": 409
+                    },
+                    "bottomRight": {
+                        "x": 1180,
+                        "y": 438
+                    },
+                    "label": "Van"
+                },
+                {
+                    "topLeft": {
+                        "x": 1183,
+                        "y": 402
+                    },
+                    "bottomRight": {
+                        "x": 1228,
+                        "y": 462
+                    },
+                    "label": "Misc"
+                },
+                {
+                    "topLeft": {
+                        "x": 383,
+                        "y": 407
+                    },
+                    "bottomRight": {
+                        "x": 427,
+                        "y": 517
+                    },
+                    "label": "Pedestrian"
+                },
+                {
+                    "topLeft": {
+                        "x": 769,
+                        "y": 420
+                    },
+                    "bottomRight": {
+                        "x": 891,
+                        "y": 469
+                    },
+                    "label": "Dontcare"
+                },
+                {
+                    "topLeft": {
+                        "x": 918,
+                        "y": 416
+                    },
+                    "bottomRight": {
+                        "x": 971,
+                        "y": 457
+                    },
+                    "label": "Dontcare"
+                },
+                {
+                    "topLeft": {
+                        "x": 1012,
+                        "y": 420
+                    },
+                    "bottomRight": {
+                        "x": 1040,
+                        "y": 439
+                    },
+                    "label": "Dontcare"
+                },
+                {
+                    "topLeft": {
+                        "x": 631,
+                        "y": 397
+                    },
+                    "bottomRight": {
+                        "x": 723,
+                        "y": 523
+                    },
+                    "label": "Cyclist"
+                },
+                {
+                    "topLeft": {
+                        "x": 1194,
+                        "y": 461
+                    },
+                    "bottomRight": {
+                        "x": 1226,
+                        "y": 415
+                    },
+                    "label": "Misc"
+                },
+                {
+                    "topLeft": {
+                        "x": 11,
+                        "y": 542
+                    },
+                    "bottomRight": {
+                        "x": 292,
+                        "y": 446
+                    },
+                    "label": "Dontcare"
+                }
+            ],
+            "polygons": [],
+            "polylines": []
+        }
+    ],
+    "actions": []
+}
